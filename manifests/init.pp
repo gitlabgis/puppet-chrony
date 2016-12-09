@@ -1,5 +1,5 @@
 class chrony (
-  $commandkey           = $chrony::params::commandkey,
+  $commandkey           = $chrony::params:: commandkey,
   $config               = $chrony::params::config,
   $config_template      = $chrony::params::config_template,
   $config_keys          = $chrony::params::config_keys,
